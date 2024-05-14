@@ -1,7 +1,13 @@
 {
-  "fase_5":[
+  "start":[
     {
       "id": "1",
+      "descripcion": "Bienvenido, has sido escogido para un concurso del famoso youtuber Mr.Beast, con un premio de 250.000$. Para poder ganar el concurso tendrás que pasar por 6 fases, de la cual, estaremos subiendo la dificultad cada vez  más. En cada fase se intentará dar pistas para ayudar a resolver y pasar de fase. Buena suerte. "
+    }
+  ],
+  "fase_5":[
+    {
+      "id": "2",
       "title": "El juego de la caja",
       "img0":"##############################################################################",
       "img1":"###*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*###",
@@ -41,7 +47,7 @@
   ],
   "fase_3":[
     {
-      "id":"2",
+      "id":"3",
       "title":"¿Quién es el asesino?",
       "descripcion":"Hay cinco personas. Una de ellas disparó y mató a uno de los otros. Esto es lo que sabemos sobre cada uno de ellos:Dan corrió el maratón de Nueva York ayer con uno de los hombres inocentes.Mike se planteó ser granjero antes de mudarse a la ciudad.Jeff es un reconocido consultor informático y quiere instalarle a Ben su nueva computadora la semana que viene.Al asesino le amputaron una pierna hace unos días.Ben conoció a Jack por primera vez hace seis meses.Jack ha estado recluido desde el crimen.Dan solía beber mucho.Ben y Jeff armaron sus últimas computadoras juntos.El asesino es el hermano de Jack. Crecieron juntos en Seattle.",
       "respuesta":"Fue Jeff quien mató a Mike."
