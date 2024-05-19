@@ -5,9 +5,25 @@
       "descripcion": "Bienvenido, has sido escogido para un concurso del famoso youtuber Mr.Beast, con un premio de 250.000$. Para poder ganar el concurso tendrás que pasar por 6 fases, de la cual, estaremos subiendo la dificultad cada vez  más. En cada fase se intentará dar pistas para ayudar a resolver y pasar de fase. Buena suerte. "
     }
   ],
-  "fase_5":[
+  "fase_1":[
     {
       "id": "2",
+      "descripcion": "Para poder pasar a la segunda fase es necesario que descubras la palabra secreta.",
+      "palabra":["Password = 8", 
+                 "Raton = 4",
+                 "DHCP = 3",
+                 "Kernel = 1",
+                 "Server = 5",
+                 "Thunderbird = 10"
+      ]
+    }
+  ],
+  "Respuesta_fase_1": {
+    "Palabra_secreta": " Docker"
+  },
+  "fase_5":[
+    {
+      "id": "5",
       "title": "El juego de la caja",
       "img0":[ "##############################################################################",
                "###*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*###",
